@@ -1,3 +1,14 @@
+# Initial GSAP implentation on React
+
+in terminal cd into the directory of the project GSAP-test
+run 
+npm install
+
+Then
+npm run start
+
+And when the react logo comes up just click on the logo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
